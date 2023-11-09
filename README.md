@@ -8,6 +8,8 @@ Kode di atas adalah implementasi permainan Tic-Tac-Toe dengan GUI menggunakan tk
 
 
 **Algoritma Minimax:**
+
+
 Algoritma Minimax adalah algoritma yang digunakan oleh komputer (simbol "X") untuk membuat keputusan terbaik dalam permainan Tic-Tac-Toe. Algoritma ini bekerja dengan cara berikut:
 
 

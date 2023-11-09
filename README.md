@@ -29,4 +29,7 @@ Algoritma Minimax adalah algoritma yang digunakan oleh komputer (simbol "X") unt
 
 
 
+
+
+
 Jadi, algoritma minimax akan mencari semua kemungkinan gerakan yang mungkin oleh komputer, mengevaluasi skor untuk setiap gerakan, dan memilih gerakan terbaik yang akan diambil oleh komputer untuk mencoba memenangkan permainan.
